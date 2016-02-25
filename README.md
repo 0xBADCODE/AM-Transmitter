@@ -1,3 +1,3 @@
 # AM-Transmitter
-Transmit simple low baudrate AM-OOK signals with a FTDI chip and a radio. Can emulate RFID, 433/315 MHz devices and more.
+Transmit simple low baudrate AM-OOK signals with a FTDI chip and a radio. Can emulate RFID, 433/315 MHz devices and more. Emulate EM41XX RFID devices. (2kbps, manchester encoded, AM OOK)
 Yes, again, it is probably illegal to hack your neighbours IoT devices...
